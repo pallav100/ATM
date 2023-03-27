@@ -2,10 +2,10 @@
 To support ATM operations - Withdraw/add money, balance enquiry, block card, change pin, notification
 
 ## Technology
-Spring Boot
-Eureka Discovery Client
-MongoDB
-SendGrid
+1. Spring Boot
+2. Eureka Discovery Client
+3. MongoDB
+4. SendGrid
 
 
 ## Architecture style
