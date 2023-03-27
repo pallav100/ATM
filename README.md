@@ -1,14 +1,14 @@
-# Purpose
+## Purpose
 To support ATM operations - Withdraw/add money, balance enquiry, block card, change pin, notification
 
-# Technology
+## Technology
 Spring Boot
 Eureka Discovery Client
 MongoDB
 SendGrid
 
 
-# Architecture style
+## Architecture style
 Microservices
 
 1. Card Service - issues card on an account
