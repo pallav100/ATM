@@ -12,7 +12,7 @@ public class EmailSender {
 
     private static EmailSender es_instance = null;
 
-    private String key="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";
+    private String key="";
     public SendGrid senderInstance;
     public EmailSender() {
         senderInstance = new SendGrid(key);
